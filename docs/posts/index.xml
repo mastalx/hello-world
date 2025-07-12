@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Test Title 42</title>
     <link>https://mastalx.github.io/hello-world/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Test Title 42</description>
     <generator>Hugo</generator>
     <language>de-ch</language>
     <lastBuildDate>Sat, 12 Jul 2025 20:14:30 +0200</lastBuildDate>
