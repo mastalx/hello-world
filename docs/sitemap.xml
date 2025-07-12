@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hello-world/</loc>
+    <loc>https://mastalx.github.io/hello-world/</loc>
     <lastmod>2025-07-12T22:01:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hello-world/posts/my-first-post/</loc>
+    <loc>https://mastalx.github.io/hello-world/posts/my-first-post/</loc>
     <lastmod>2025-07-12T20:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hello-world/posts/</loc>
+    <loc>https://mastalx.github.io/hello-world/posts/</loc>
     <lastmod>2025-07-12T20:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hello-world/categories/</loc>
+    <loc>https://mastalx.github.io/hello-world/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hello-world/tags/</loc>
+    <loc>https://mastalx.github.io/hello-world/tags/</loc>
   </url>
 </urlset>
