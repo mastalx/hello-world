@@ -1,5 +1,5 @@
 baseURL = 'https://mastalx.github.io/hello-world/'
 languageCode = 'de-ch'
-title = 'My New Hugo Site'
+title = 'Test Title 42'
 theme = 'ananke'
-publishDir = "docs"
+publishDir = 'docs'
