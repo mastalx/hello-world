@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+  </header>
+
+  <main>
+    {{ .Content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ now.Format "2006" }} – Alle Rechte vorbehalten.</p>
+  </footer>
+</body>
+</html>

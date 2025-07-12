@@ -1,5 +1,5 @@
 baseURL = 'https://mastalx.github.io/hello-world/'
 languageCode = 'de-ch'
 title = 'Test Title 42'
-theme = 'ananke'
+theme = 'onepage'
 publishDir = 'docs'
