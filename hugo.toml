@@ -1,0 +1,4 @@
+baseURL = 'https://mastalx.github.io/hello-world/'
+languageCode = 'de-ch'
+title = 'My New Hugo Site'
+theme = 'ananke'
